@@ -8,13 +8,13 @@ Para su instalacion se requiere de la consola de ANACONDA
 
 2) Poner el archivo PDF en tu carpeta c:\Python 3.7 
 
-3) usar el comando 
+3) Usar el comando 
 
 ```
 $ cd c:\Pythn 3.7
 ```
 
-4)utilizar el comando para la isntalacion de PDFminer
+4) Utilizar el comando para la isntalacion de PDFminer
 
 ```
 $ pip install pdfminer.six
@@ -26,4 +26,4 @@ $ pip install pdfminer.six
 $ pdf2txt.py CDMX.pdf
 ```
 
-#LISTO!!!!
+# LISTO!!!!
