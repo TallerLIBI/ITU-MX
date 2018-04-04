@@ -1,11 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
+## Extraccion de datos PDF
 
-## 'Extraccion de datos PDF'
-
-PDFMiner
-Instalación :
+Encontre este programa denominado PDFMiner
+Para su instalacion se requiere el comando
 $ pip install pdfminer.six
-Uso:
+El comando para la extraccion 
 $ pdf2txt.py CDMX.pdf
 
