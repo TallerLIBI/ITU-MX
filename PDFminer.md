@@ -26,6 +26,4 @@ $ pip install pdfminer.six
 $ pdf2txt.py CDMX.pdf
 ```
 
-# LISTO!!!!
-
-:)
+# LISTO!!!! :)
